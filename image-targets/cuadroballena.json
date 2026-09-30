@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 948,
+    "height": 1280,
+    "isRotated": false,
+    "originalWidth": 948,
+    "originalHeight": 1280
+  },
+  "imagePath": "image-targets/cuadroballena_luminance.png",
+  "metadata": null,
+  "name": "cuadroballena",
+  "resources": {
+    "originalImage": "cuadroballena_original.png",
+    "croppedImage": "cuadroballena_cropped.png",
+    "thumbnailImage": "cuadroballena_thumbnail.png",
+    "luminanceImage": "cuadroballena_luminance.png"
+  },
+  "created": 1788311078009,
+  "updated": 1788311078009
+}

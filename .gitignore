@@ -1,0 +1,4 @@
+# Large uncompressed intermediate video files
+*.mov
+.DS_Store
+Thumbs.db
